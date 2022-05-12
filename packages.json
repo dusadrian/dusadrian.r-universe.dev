@@ -1,0 +1,22 @@
+[
+    {
+        "package": "admisc",
+        "url": "https://github.com/dusadrian/admisc"
+    },
+    {
+        "package": "declared",
+        "url": "https://github.com/dusadrian/declared"
+    },
+    {
+        "package": "venn",
+        "url": "https://github.com/dusadrian/venn"
+    },
+    {
+        "package": "DDIwR",
+        "url": "https://github.com/dusadrian/DDIwR"
+    },
+    {
+        "package": "statistics",
+        "url": "https://github.com/dusadrian/statistics"
+    }
+]
