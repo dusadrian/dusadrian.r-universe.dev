@@ -4,10 +4,6 @@
         "url": "https://github.com/dusadrian/admisc"
     },
     {
-        "package": "QCA",
-        "url": "https://github.com/dusadrian/testthat_QCA"
-    },
-    {
         "package": "declared",
         "url": "https://github.com/dusadrian/declared"
     },
